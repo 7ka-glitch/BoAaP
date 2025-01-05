@@ -1,0 +1,30 @@
+﻿Сборка начата 23.09.2024 17:15:43.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Admin\source\repos\оаип 5 лаба\оаип 5 лаба\оаип 5 лаба.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Обращение к "x64\Debug\оаип 5 лаба.tlog\unsuccessfulbuild".
+       ClCompile:
+         D:\Vs\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt "4 зад.cpp"
+         4 зад.cpp
+     1>C:\Users\Admin\source\repos\оаип 5 лаба\оаип 5 лаба\4 зад.cpp(14,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+       Link:
+         D:\Vs\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Admin\source\repos\оаип 5 лаба\x64\Debug\оаип 5 лаба.exe" /INCREMENTAL /ILK:"x64\Debug\оаип 5 лаба.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Admin\source\repos\оаип 5 лаба\x64\Debug\оаип 5 лаба.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Admin\source\repos\оаип 5 лаба\x64\Debug\оаип 5 лаба.lib" /MACHINE:X64 "x64\Debug\4 зад.obj"
+         оаип 5 лаба.vcxproj -> C:\Users\Admin\source\repos\оаип 5 лаба\x64\Debug\оаип 5 лаба.exe
+       TlogCleanup:
+         Следующие элементы будут удалены из tlogs, так как они были удалены из проекта или сборки: C:\Users\Admin\source\repos\оаип 5 лаба\оаип 5 лаба\оаип 5 лаба.cpp.
+       FinalizeBuildStatus:
+         Файл "x64\Debug\оаип 5 лаба.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\оаип 5 лаба.tlog\оаип 5 лаба.lastbuildstate".
+     1>Сборка проекта "C:\Users\Admin\source\repos\оаип 5 лаба\оаип 5 лаба\оаип 5 лаба.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\Admin\source\repos\оаип 5 лаба\оаип 5 лаба\оаип 5 лаба.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\Admin\source\repos\оаип 5 лаба\оаип 5 лаба\4 зад.cpp(14,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:01.23

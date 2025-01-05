@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 16\\5.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E27C3FAB-216C-44B5-B454-F14EEF7A9709}|..\\11\\11.vcxproj|C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 16\\11\\11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E0705F-DDBA-4992-BA80-59646226DC9F}|..\\9\\9.vcxproj|C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 16\\9\\9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475FAD20-74CA-4145-830D-7F850B6BFC08}|..\\7\\7.vcxproj|C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 16\\7\\7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67558719-00E6-4C4E-99A4-154D3A4B4618}|5.1.vcxproj|C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 16\\5.1\\5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67558719-00E6-4C4E-99A4-154D3A4B4618}|5.1.vcxproj|solutionrelative:5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "11.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 16\\11\\11.cpp",
+              "RelativeDocumentMoniker": "..\\11\\11.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 16\\11\\11.cpp",
+              "RelativeToolTip": "..\\11\\11.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwB4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T10:29:31.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "9.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 16\\9\\9.cpp",
+              "RelativeDocumentMoniker": "..\\9\\9.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 16\\9\\9.cpp",
+              "RelativeToolTip": "..\\9\\9.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T10:06:33.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "7.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 16\\7\\7.cpp",
+              "RelativeDocumentMoniker": "..\\7\\7.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 16\\7\\7.cpp",
+              "RelativeToolTip": "..\\7\\7.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-04T22:56:15.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "5.1.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 16\\5.1\\5.1.cpp",
+              "RelativeDocumentMoniker": "5.1.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 16\\5.1\\5.1.cpp",
+              "RelativeToolTip": "5.1.cpp",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAACMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-04T21:33:10.836Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

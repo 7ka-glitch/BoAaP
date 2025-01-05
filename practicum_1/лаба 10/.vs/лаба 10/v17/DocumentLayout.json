@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB41ABE-B6D1-465B-AAAD-3A8DFA56982B}|1dop\\1dop.vcxproj|C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 10\\1dop\\1dop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AB41ABE-B6D1-465B-AAAD-3A8DFA56982B}|1dop\\1dop.vcxproj|solutionrelative:1dop\\1dop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E381733-648C-47F5-9C6A-0B01DAB0236B}|3 dop\\3 dop.vcxproj|C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 10\\3 dop\\3 dop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E381733-648C-47F5-9C6A-0B01DAB0236B}|3 dop\\3 dop.vcxproj|solutionrelative:3 dop\\3 dop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7540DDE-FD89-477B-9BFC-05D6119E622B}|2dop\\2dop.vcxproj|C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 10\\2dop\\2dop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7540DDE-FD89-477B-9BFC-05D6119E622B}|2dop\\2dop.vcxproj|solutionrelative:2dop\\2dop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F17B4A-E431-4CA3-A60D-DEF13F24F10F}|5.2\\5.2.vcxproj|C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 10\\5.2\\5.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23F17B4A-E431-4CA3-A60D-DEF13F24F10F}|5.2\\5.2.vcxproj|solutionrelative:5.2\\5.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21663B27-1D2E-47B2-9DE3-F754B60065F2}|\u043B\u0430\u0431\u0430 10\\\u043B\u0430\u0431\u0430 10.vcxproj|C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 10\\\u043B\u0430\u0431\u0430 10\\5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21663B27-1D2E-47B2-9DE3-F754B60065F2}|\u043B\u0430\u0431\u0430 10\\\u043B\u0430\u0431\u0430 10.vcxproj|solutionrelative:\u043B\u0430\u0431\u0430 10\\5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3 dop.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 10\\3 dop\\3 dop.cpp",
+              "RelativeDocumentMoniker": "3 dop\\3 dop.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 10\\3 dop\\3 dop.cpp",
+              "RelativeToolTip": "3 dop\\3 dop.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T22:55:14.196Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2dop.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 10\\2dop\\2dop.cpp",
+              "RelativeDocumentMoniker": "2dop\\2dop.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 10\\2dop\\2dop.cpp",
+              "RelativeToolTip": "2dop\\2dop.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T21:46:25.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1dop.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 10\\1dop\\1dop.cpp",
+              "RelativeDocumentMoniker": "1dop\\1dop.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 10\\1dop\\1dop.cpp",
+              "RelativeToolTip": "1dop\\1dop.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T21:19:35.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "5.2.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 10\\5.2\\5.2.cpp",
+              "RelativeDocumentMoniker": "5.2\\5.2.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 10\\5.2\\5.2.cpp",
+              "RelativeToolTip": "5.2\\5.2.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T14:47:14.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "5.1.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 10\\\u043B\u0430\u0431\u0430 10\\5.1.cpp",
+              "RelativeDocumentMoniker": "\u043B\u0430\u0431\u0430 10\\5.1.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u041E\u0410\u0418\u041F\\\u043B\u0430\u0431\u0430 10\\\u043B\u0430\u0431\u0430 10\\5.1.cpp",
+              "RelativeToolTip": "\u043B\u0430\u0431\u0430 10\\5.1.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T14:25:18.405Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
